@@ -85,7 +85,7 @@ Explainable-Multimodal-AI-for-Parkinsons-Disease-Screening
 │   ├── vision_sample.csv
 │   └── speech_sample.csv
 │
-├── screenshots
+├── output_screenshots
 │   ├── homepage.png
 │   ├── prediction.png
 │   └── shap.png
@@ -166,7 +166,7 @@ streamlit run app.py
 ## Home Screen
 
 <p align="center">
-<img src="output_screenshots/homepage.png" width="900">
+<img src="output_screenshot/homepage.png" width="900">
 </p>
 
 ---
@@ -174,7 +174,7 @@ streamlit run app.py
 ## Prediction Results
 
 <p align="center">
-<img src="output_screenshots/prediction.png" width="900">
+<img src="output_screenshot/prediction.png" width="900">
 </p>
 
 ---
@@ -182,7 +182,7 @@ streamlit run app.py
 ## Explainable AI (SHAP)
 
 <p align="center">
-<img src="output_screenshots/shap.png" width="900">
+<img src="output_screenshot/shap.png" width="900">
 </p>
 
 ---
